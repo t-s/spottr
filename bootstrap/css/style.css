@@ -1,0 +1,47 @@
+@font-face {
+	font-family: "Chewy";
+	src: url(Chewy.ttf);
+}
+@font-face {
+	font-family: "CabinSketch-Bold";
+	src: url(../fonts/CabinSketch-Bold.ttf);
+}
+@font-face {
+	font-family:"CoveredByYourGrace";
+	src: url(CoveredByYourGrace.ttf);	
+}
+@font-face {
+	font-family:"DancingScript-Regular";
+	src: url(DancingScript-Regular.ttf);
+}
+@font-face {	
+	font-family:"DancingScript-Bold";
+	src: url(DancingScript-Bold.ttf);
+}
+@font-face {
+	font-family:"Reenie Beanie";
+	src: url(ReenieBeanie.ttf);
+}
+
+body {background-image: url('../imgs/cloudpttrn2.jpg') }
+
+td.alt {
+	background-color: #ecf6fc;
+}
+td.over {
+	background-color: #bcd4ec;
+}
+
+.title1 { font-family: 'Chewy'; font-size: 300%; }
+.title2 { font-family: 'CoveredByYourGrace'; font-size: 300%; }
+.title3 { font-family: 'CabinSketch-Bold'; font-size: 300%; }
+.title4 { font-family: 'DancingScript-Regular'; font-size: 300%; }
+.title5 { font-family: 'DancingScript-Bold'; font-size: 300%; }
+.title6 { font-family: 'ReenieBeanie'; font-size: 300%; }
+
+.tde0 { background-color: #B1DAE2; }
+.tde1 { background-color: #f0f0f0; }
+
+.header { background-color: #BDDEF1; }
+
+.titlealign { position:relative; }
